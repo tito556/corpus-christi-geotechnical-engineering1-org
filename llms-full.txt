@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Corpus Christi
+
+> Geotechnical engineering services in Corpus Christi, United States.
+
+## Services
+- [Anchors](https://corpus-christi.geotechnical-engineering1.org/anchors/)
+- [Atterberg Limits](https://corpus-christi.geotechnical-engineering1.org/atterberg-limits/)
+- [Cbr Road](https://corpus-christi.geotechnical-engineering1.org/cbr-road/)
+- [Cpt Test](https://corpus-christi.geotechnical-engineering1.org/cpt-test/)
+- [Deep Excavations](https://corpus-christi.geotechnical-engineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://corpus-christi.geotechnical-engineering1.org/excavation-monitoring/)
+- [Excavations](https://corpus-christi.geotechnical-engineering1.org/excavations/)
+- [Flexible Pavement](https://corpus-christi.geotechnical-engineering1.org/flexible-pavement/)
+- [Footings](https://corpus-christi.geotechnical-engineering1.org/footings/)
+- [Foundations](https://corpus-christi.geotechnical-engineering1.org/foundations/)
+- [Grain Size](https://corpus-christi.geotechnical-engineering1.org/grain-size/)
+- [Ground Improvement](https://corpus-christi.geotechnical-engineering1.org/ground-improvement/)
+- [Grouting](https://corpus-christi.geotechnical-engineering1.org/grouting/)
+- [In Situ Permeability](https://corpus-christi.geotechnical-engineering1.org/in-situ-permeability/)
+- [Investigation](https://corpus-christi.geotechnical-engineering1.org/investigation/)
+- [Lab In Situ](https://corpus-christi.geotechnical-engineering1.org/lab-in-situ/)
+- [Laboratory](https://corpus-christi.geotechnical-engineering1.org/laboratory/)
+- [Liquefaction](https://corpus-christi.geotechnical-engineering1.org/liquefaction/)
+- [Masw](https://corpus-christi.geotechnical-engineering1.org/masw/)
+- [Mat Foundations](https://corpus-christi.geotechnical-engineering1.org/mat-foundations/)
+- [Piles](https://corpus-christi.geotechnical-engineering1.org/piles/)
+- [Proctor Tests](https://corpus-christi.geotechnical-engineering1.org/proctor-tests/)
+- [Resistivity](https://corpus-christi.geotechnical-engineering1.org/resistivity/)
+- [Retaining Walls](https://corpus-christi.geotechnical-engineering1.org/retaining-walls/)
+- [Rigid Pavement](https://corpus-christi.geotechnical-engineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://corpus-christi.geotechnical-engineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://corpus-christi.geotechnical-engineering1.org/sand-cone-density/)
+- [Seismic](https://corpus-christi.geotechnical-engineering1.org/seismic/)
+- [Seismic Isolation](https://corpus-christi.geotechnical-engineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://corpus-christi.geotechnical-engineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://corpus-christi.geotechnical-engineering1.org/seismic-refraction/)
+- [Slope Stability](https://corpus-christi.geotechnical-engineering1.org/slope-stability/)
+- [Slopes](https://corpus-christi.geotechnical-engineering1.org/slopes/)
+- [Soft Ground Tunnels](https://corpus-christi.geotechnical-engineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://corpus-christi.geotechnical-engineering1.org/spt-drilling/)
+- [Stone Columns](https://corpus-christi.geotechnical-engineering1.org/stone-columns/)
+- [Test Pits](https://corpus-christi.geotechnical-engineering1.org/test-pits/)
+- [Triaxial](https://corpus-christi.geotechnical-engineering1.org/triaxial/)
+- [Vibrocompaction](https://corpus-christi.geotechnical-engineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://corpus-christi.geotechnical-engineering1.org/
+
+## About
+This site provides geotechnical engineering services in Corpus Christi, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
